@@ -1,6 +1,6 @@
 # <span style="color:purple">Julie Tibshirani</span>
 
-<img src="julie.jpg" alt="Julie with California poppies" width="460" style="margin-bottom: 5px" align="right"/>
+<img src="assets/julie.jpg" alt="Julie with California poppies" width="460" style="margin-bottom: 5px" align="right"/>
 
 Hello, world! I'm a software engineer focused on search, database systems, and
 statistical computing. I currently work on code search and AI-assisted software
