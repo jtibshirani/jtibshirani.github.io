@@ -13,26 +13,25 @@ source enthusiast, and shared my experience joining the open source search
 community in
 *[Finding a home (and career) in the open source community](https://www.elastic.co/blog/culture-finding-a-home-and-career-in-the-open-source-community)*.
 
-Before Sourcegraph, I worked at [Elastic](https://www.elastic.co/) on the
-Elasticsearch search engine.
+Before Sourcegraph, I worked at Elastic on the [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch), and search engine and at [Palantir Technologies](https://www.palantir.com/).
 
 ## <span style="color:purple">Selected work</span>
 
 #### Vector search
-There's been a surge of interest in vector search, thanks to a new generation
-of machine learning models that powerfully represent text and other content as
-vectors. I helped introduce k-nearest neighbor search in Lucene and Elasticsearch,
-opening up new possibilites for ranking and recommendations.
-* *[Implementing academic papers: lessons learned from Elasticsearch and Lucene](https://www.elastic.co/blog/implementing-academic-papers-lessons-learned-from-elasticsearch-and-lucene)*
+Thanks to a new generation of machine learning models that can powerfully
+represent text as vectors, there's been a surge of interest in vector-based 
+semantic search. I lead Elastic's effort to introduce vector search in Lucene and
+Elasticsearch, helping extend these systems to become powerful "vector databases".
 * *[Introducing approximate nearest neighbor search in Elasticsearch](https://www.elastic.co/blog/introducing-approximate-nearest-neighbor-search-in-elasticsearch-8.0)*
+* *[Implementing academic papers: lessons learned from Elasticsearch and Lucene](https://www.elastic.co/blog/implementing-academic-papers-lessons-learned-from-elasticsearch-and-lucene)*
 * *[Text similarity search with vectors in Elasticsearch](https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch)*
 
 #### Machine learning for causal inference
 Causal inference allows for determining the effect of an action on a
 larger system. The generalized random forests (grf) method combines insights
-from statistics and machine learning to enable causal analysis. The associated
-[software package](https://grf-labs.github.io/grf/) is becoming a popular choice
-for social scientists investigating causal effects.
+from statistics and machine learning to enable causal analysis. I developed the
+[grf software package](https://grf-labs.github.io/grf/), which has become a
+popular tool for social scientists investigating causal effects.
 * *[Generalized Random Forests](https://arxiv.org/abs/1610.01271)* (Annals of Statistics, 2019)
 * *[Local Linear Forests](https://arxiv.org/abs/1807.11408)* (Journal of Computational and Graphical Statistics, 2020)
 
