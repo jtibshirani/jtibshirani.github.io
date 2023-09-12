@@ -45,6 +45,15 @@ training data.
 * *[Combining Distant and Partial Supervision for Relation Extraction](https://www.aclweb.org/anthology/D14-1164/)* (EMNLP, 2014)
 * *[Robust Logistic Regression using Shift Parameters](https://www.aclweb.org/anthology/P14-2021/)* (ACL, 2014)
 
+## <span style="color:purple">Personal</span>
+
+**Backcountry cooking recipes**. I'm an avid backpacker and enjoy finding [creative ways to eat well outdoors](/backcountry).
+
+**Digital mixtapes**. A true child of the 90s, I love making playlists for friends and family.
+* [A Golden State](https://open.spotify.com/playlist/2T4qI78ekq6IvZWdD0hAvl?si=11a8494c3e4141ee): A rock-centric playlist featuring artists from California, compiled as a welcome gift for a friend moving here.
+* [Sleepytime](https://open.spotify.com/playlist/5FigKrjjfhB4ucejGy6sBH?si=b6ecde45b5904ffb): My daughter's bedtime playlist, inspired by three prayers I said before bed as a child.
+* [Brett's Roadtrip Mix](https://open.spotify.com/playlist/3lTKM5ROX7UgkLWNLiLhTx?si=6fa0d82bea504d57): Designed for long drives out to the Sierras, preferably in a sporty convertible :)
+
 ___
 
 <a href="mailto: julietibs@apache.org"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email icon" width=30></a>
