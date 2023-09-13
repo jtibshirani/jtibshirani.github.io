@@ -13,11 +13,11 @@ source enthusiast, and shared my experience joining the open source search
 community in
 *[Finding a home (and career) in the open source community](https://www.elastic.co/blog/culture-finding-a-home-and-career-in-the-open-source-community)*.
 
-Before Sourcegraph, I worked at Elastic on the [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch), and search engine and at [Palantir Technologies](https://www.palantir.com/).
+Before Sourcegraph, I worked at Elastic on the [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch) search engine, and at [Palantir Technologies](https://www.palantir.com/). I hold an M.S. in Computer Science and B.S. in Math from Stanford University.
 
 ## <span style="color:purple">Selected work</span>
 
-#### Vector search
+#### 🔎  Vector search
 Thanks to a new generation of machine learning models that can powerfully
 represent text as vectors, there's been a surge of interest in vector-based 
 semantic search. I led Elastic's effort to introduce vector search in Lucene and
@@ -26,7 +26,7 @@ Elasticsearch, helping extend these systems to become powerful "vector databases
 * *[Implementing academic papers: lessons learned from Elasticsearch and Lucene](https://www.elastic.co/blog/implementing-academic-papers-lessons-learned-from-elasticsearch-and-lucene)*
 * *[Text similarity search with vectors in Elasticsearch](https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch)*
 
-#### Machine learning for causal inference
+#### 🌲  Machine learning for causal inference
 Causal inference allows for determining the effect of an action on a
 larger system. The generalized random forests (grf) method combines insights
 from statistics and machine learning to enable causal analysis. I developed the
@@ -35,7 +35,7 @@ popular tool for social scientists investigating causal effects.
 * *[Generalized Random Forests](https://arxiv.org/abs/1610.01271)* (Annals of Statistics, 2019)
 * *[Local Linear Forests](https://arxiv.org/abs/1807.11408)* (Journal of Computational and Graphical Statistics, 2020)
 
-#### Information extraction
+#### 💾  Information extraction
 During my Master's degree I researched relation extraction and knowledge base
 population as part of the Stanford Natural Language Processing group. Our work
 focused on non-traditional supervision techniques, including multi-label
