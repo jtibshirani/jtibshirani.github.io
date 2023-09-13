@@ -20,7 +20,7 @@ Before Sourcegraph, I worked at Elastic on the [Elasticsearch](https://en.wikipe
 #### Vector search
 Thanks to a new generation of machine learning models that can powerfully
 represent text as vectors, there's been a surge of interest in vector-based 
-semantic search. I lead Elastic's effort to introduce vector search in Lucene and
+semantic search. I led Elastic's effort to introduce vector search in Lucene and
 Elasticsearch, helping extend these systems to become powerful "vector databases".
 * *[Introducing approximate nearest neighbor search in Elasticsearch](https://www.elastic.co/blog/introducing-approximate-nearest-neighbor-search-in-elasticsearch-8.0)*
 * *[Implementing academic papers: lessons learned from Elasticsearch and Lucene](https://www.elastic.co/blog/implementing-academic-papers-lessons-learned-from-elasticsearch-and-lucene)*
