@@ -43,3 +43,5 @@ the water over the couscous. There should be enough water to cover the couscous,
 plus a thin layer on top. Stir the couscous to ensure the salt and nuts are
 evenly distributed, then let it sit until all water has been absorbed. To
 serve, fluff up the couscous, split into bowls, and drizzle the sauce on top.
+
+For a sweeter variation, you can chop some dates or dried figs and add it to the couscous alongside the pine nuts. Medjool dates also pair nicely as a dessert course.
