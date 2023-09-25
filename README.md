@@ -1,6 +1,6 @@
 # <span style="color:purple">Julie Tibshirani</span>
 
-<img src="assets/julie.jpg" alt="Julie with California poppies" width="460" style="margin-bottom: 5px" align="right"/>
+<img src="/assets/julie.jpg" alt="Julie with California poppies" width="450" style="float: right; margin-bottom: 5px; margin-left: 10px;"/>
 
 Hello, world! I'm a software engineer focused on search, database systems, and
 statistical computing. I currently work on code search and AI-assisted software
@@ -47,9 +47,9 @@ training data.
 
 ## <span style="color:purple">Personal</span>
 
-**Backcountry cooking recipes**. I'm an avid backpacker and enjoy finding [creative ways to eat well outdoors](/backcountry).
+⛰️ **Backcountry cooking recipes**. I'm an avid backpacker and enjoy finding [creative ways to eat well outdoors](/backcountry).
 
-**Digital mixtapes**. A true child of the 90s, I love making playlists for friends and family.
+📼 **Digital mixtapes**. A true child of the 90s, I love making playlists for friends and family.
 * [A Golden State](https://open.spotify.com/playlist/2T4qI78ekq6IvZWdD0hAvl?si=11a8494c3e4141ee): A rock-centric playlist featuring artists from California, compiled as a welcome gift for a friend moving here.
 * [Sleepytime](https://open.spotify.com/playlist/5FigKrjjfhB4ucejGy6sBH?si=b6ecde45b5904ffb): My daughter's bedtime playlist, inspired by three prayers I said before bed as a child.
 * [Brett's Roadtrip Mix](https://open.spotify.com/playlist/3lTKM5ROX7UgkLWNLiLhTx?si=6fa0d82bea504d57): Designed for long drives out to the Sierras, preferably in a sporty convertible :)
