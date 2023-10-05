@@ -2,8 +2,7 @@
 
 <img src="/assets/julie.jpg" alt="Julie with California poppies" width="450" style="float: right; margin-bottom: 5px; margin-left: 10px;"/>
 
-Hello, world! I'm a software engineer focused on search, database systems, and
-statistical computing. I currently work on code search and AI-assisted software
+Hello, world! I'm a software engineer focused on search and data-intensive applications. I currently work on code search and AI-assisted software
 development at [Sourcegraph](https://about.sourcegraph.com/), and serve as an
 [Apache Lucene](https://lucene.apache.org/) committer and PMC member. I'm also
 the author of the [generalized random forests (grf) package](https://grf-labs.github.io/grf/).
