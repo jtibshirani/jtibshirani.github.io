@@ -28,9 +28,10 @@ Elasticsearch, helping extend these systems to become powerful "vector databases
 #### 🌲  Machine learning for causal inference
 Causal inference allows for determining the effect of an action on a
 larger system. The generalized random forests (grf) method combines insights
-from statistics and machine learning to enable causal analysis. I developed the
-[grf software package](https://grf-labs.github.io/grf/), which has become a
-popular tool for social scientists investigating causal effects.
+from statistics and machine learning to enable causal analysis. I authored the
+[grf software package](https://grf-labs.github.io/grf/), which won an inaugural
+Stanford Open Source Software prize for its research impact, quality, and
+dedication to open source principles.
 * *[Generalized Random Forests](https://arxiv.org/abs/1610.01271)* (Annals of Statistics, 2019)
 * *[Local Linear Forests](https://arxiv.org/abs/1807.11408)* (Journal of Computational and Graphical Statistics, 2020)
 
