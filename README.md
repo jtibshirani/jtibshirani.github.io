@@ -10,7 +10,7 @@ the author of the [generalized random forests (grf) package](https://grf-labs.gi
 I love building software that's empowering and joyful to use. I'm an open
 source enthusiast, and shared my experience joining the open source search
 community in
-*[Finding a home (and career) in the open source community](https://www.elastic.co/blog/culture-finding-a-home-and-career-in-the-open-source-community)*.
+*[Finding a home (and career) in the open source community](https://jtibs.substack.com/p/finding-a-home-and-career-in-the)*.
 
 Before Sourcegraph, I worked at Elastic on the [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch) search engine, and at [Palantir Technologies](https://www.palantir.com/). I hold an M.S. in Computer Science and B.S. in Math from Stanford University.
 
