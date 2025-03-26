@@ -2,7 +2,7 @@
 
 <img src="/assets/julie.jpg" alt="Julie with California poppies" width="450" style="float: right; margin-bottom: 5px; margin-left: 10px;"/>
 
-Hello, world! I'm a software engineer focused on search and data-intensive systems. I currently work on code search and AI-assisted software
+Hello, world! I'm a software engineer focused on search and developer tools. I currently work on code search and AI-assisted software
 development at [Sourcegraph](https://about.sourcegraph.com/), and serve as an
 [Apache Lucene](https://lucene.apache.org/) committer and PMC member. I'm also
 the author of the [generalized random forests (grf) package](https://grf-labs.github.io/grf/).
@@ -16,9 +16,14 @@ Before Sourcegraph, I worked at Elastic on the [Elasticsearch](https://en.wikipe
 
 ## <span style="color:purple">Selected work</span>
 
-#### 🔎  Vector search
+#### 🔎  Code search
+Sourcegraph is a widely used code intelligence platform that helps enterprises work successfully with large, complex codebases. I helped introduce Sourcegraph's semantic code search capability, allowing users (and LLMs!) to ask questions about large codebases in natural language.
+* *[Beyond working set memory: understanding the cAdvisor memory metrics](https://sourcegraph.com/blog/beyond-working-set-memory-understanding-the-cadvisor-memory-metrics)*
+* 🔜 *Keeping it boring (and relevant) with BM25F*
+
+#### 🔢  Vector search
 Thanks to a new generation of machine learning models that can powerfully
-represent text as vectors, there's been a surge of interest in vector-based 
+represent text as vectors, there's been a surge of interest in vector-based
 semantic search. I led Elastic's effort to introduce vector search in Lucene and
 Elasticsearch, helping extend these systems to become powerful "vector databases".
 * *[Introducing approximate nearest neighbor search in Elasticsearch](https://www.elastic.co/blog/introducing-approximate-nearest-neighbor-search-in-elasticsearch-8.0)*
