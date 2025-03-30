@@ -18,7 +18,7 @@ Before Sourcegraph, I worked at Elastic on the [Elasticsearch](https://en.wikipe
 
 #### 🔎  Code search
 Sourcegraph is a widely used code intelligence platform that helps enterprises work successfully with large, complex codebases. I helped introduce Sourcegraph's semantic code search capability, allowing users (and LLMs!) to ask questions about large codebases in natural language.
-* *[Beyond working set memory: understanding the cAdvisor memory metrics](https://sourcegraph.com/blog/beyond-working-set-memory-understanding-the-cadvisor-memory-metrics)*
+* *[Beyond working set memory: understanding the cAdvisor memory metrics](https://sourcegraph.com/blog/beyond-working-set-memory-understanding-the-cadvisor-memory-metrics)* (Sourcegraph blog, 2025)
 * 🔜 *Keeping it boring (and relevant) with BM25F*
 
 #### 🔢  Vector search
@@ -26,9 +26,8 @@ Thanks to a new generation of machine learning models that can powerfully
 represent text as vectors, there's been a surge of interest in vector-based
 semantic search. I led Elastic's effort to introduce vector search in Lucene and
 Elasticsearch, helping extend these systems to become powerful "vector databases".
-* *[Introducing approximate nearest neighbor search in Elasticsearch](https://www.elastic.co/blog/introducing-approximate-nearest-neighbor-search-in-elasticsearch-8.0)*
-* *[Implementing academic papers: lessons learned from Elasticsearch and Lucene](https://www.elastic.co/blog/implementing-academic-papers-lessons-learned-from-elasticsearch-and-lucene)*
-* *[Text similarity search with vectors in Elasticsearch](https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch)*
+* *[Introducing approximate nearest neighbor search in Elasticsearch](https://www.elastic.co/blog/introducing-approximate-nearest-neighbor-search-in-elasticsearch-8.0)* (Elastic blog, 2022)
+* *[Implementing academic papers: lessons learned from Elasticsearch and Lucene](https://www.elastic.co/blog/implementing-academic-papers-lessons-learned-from-elasticsearch-and-lucene)* (Elastic blog, 2021)
 
 #### 🌲  Machine learning for causal inference
 Causal inference allows for determining the effect of an action on a
@@ -55,7 +54,7 @@ training data.
 ⛰️ **Backcountry cooking recipes**. I'm an avid backpacker and enjoy finding [creative ways to eat well outdoors](/backcountry).
 
 📼 **Digital mixtapes**. A true child of the 90s, I love making playlists for friends and family.
-* [A Golden State](https://open.spotify.com/playlist/2T4qI78ekq6IvZWdD0hAvl?si=11a8494c3e4141ee): A rock-centric playlist featuring artists from California, compiled as a welcome gift for a friend moving here.
+* [A Golden State](https://open.spotify.com/playlist/2T4qI78ekq6IvZWdD0hAvl?si=11a8494c3e4141ee): A rock-centric playlist featuring artists from California, compiled as a welcome gift for a friend moving to the Bay Area.
 * [Sleepytime](https://open.spotify.com/playlist/5FigKrjjfhB4ucejGy6sBH?si=b6ecde45b5904ffb): My daughter's bedtime playlist, inspired by three prayers I said before bed as a child.
 
 🤓 **Unicode.** I'm the proud [sponsor](https://aac.unicode.org/sponsors) of Unicode characters μ and σ.
