@@ -17,9 +17,9 @@ Before Sourcegraph, I worked at Elastic on the [Elasticsearch](https://en.wikipe
 ## <span style="color:purple">Selected work</span>
 
 #### 🔎  Code search
-Sourcegraph is a widely used code intelligence platform that helps enterprises work successfully with large, complex codebases. I helped introduce Sourcegraph's semantic code search capability, allowing users (and LLMs!) to ask questions about large codebases in natural language.
+Sourcegraph is a widely used code intelligence platform that helps enterprises work efficiently with large, complex codebases. I helped introduce Sourcegraph's semantic code search capability, allowing users (and LLMs!) to ask questions about large codebases in natural language.
 * *[Beyond working set memory: understanding the cAdvisor memory metrics](https://sourcegraph.com/blog/beyond-working-set-memory-understanding-the-cadvisor-memory-metrics)* (Sourcegraph blog, 2025)
-* 🔜 *Keeping it boring (and relevant) with BM25F*
+* *[Keeping it boring (and relevant) with BM25F](https://sourcegraph.com/blog/keeping-it-boring-and-relevant-with-bm25f)* (Sourcegraph blog, 2025)
 
 #### 🔢  Vector search
 Thanks to a new generation of machine learning models that can powerfully
