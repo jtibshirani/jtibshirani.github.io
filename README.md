@@ -2,17 +2,14 @@
 
 <img src="/assets/julie.jpg" alt="Julie with California poppies" width="450" style="float: right; margin-bottom: 5px; margin-left: 10px;"/>
 
-Hello, world! I'm a software engineer focused on search and developer tools. I currently work on code search and AI-assisted software
-development at [Sourcegraph](https://about.sourcegraph.com/), and serve as an
-[Apache Lucene](https://lucene.apache.org/) committer and PMC member. I'm also
-the author of the [generalized random forests (grf) package](https://grf-labs.github.io/grf/).
+Hello, world! I'm a software engineer focused on search and developer infrastructure. I currently work on the developer platform team at [Databricks](https://www.databricks.com/) and serve as an [Apache Lucene](https://lucene.apache.org/) committer and PMC member.
 
 I love building software that's empowering and joyful to use. I'm an open
 source enthusiast, and shared my experience joining the open source search
 community in
 *[Finding a home (and career) in the open source community](https://jtibs.substack.com/p/finding-a-home-and-career-in-the)*.
 
-Before Sourcegraph, I worked at Elastic on the [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch) search engine, and at [Palantir Technologies](https://www.palantir.com/). I hold an M.S. in Computer Science and B.S. in Math from Stanford University.
+Before Databricks, I worked at Elastic on the [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch) search engine, as well as [Sourcegraph](https://sourcegraph.com/) and [Palantir Technologies](https://www.palantir.com/). I hold an M.S. in Computer Science and B.S. in Math from Stanford University.
 
 ## <span style="color:purple">Selected work</span>
 
