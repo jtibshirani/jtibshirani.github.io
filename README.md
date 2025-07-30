@@ -50,10 +50,6 @@ training data.
 
 ⛰️ **Backcountry cooking recipes**. I'm an avid backpacker and enjoy finding [creative ways to eat well outdoors](/backcountry).
 
-📼 **Digital mixtapes**. A true child of the 90s, I love making playlists for friends and family.
-* [A Golden State](https://open.spotify.com/playlist/2T4qI78ekq6IvZWdD0hAvl?si=11a8494c3e4141ee): A rock-centric playlist featuring artists from California, compiled as a welcome gift for a friend moving to the Bay Area.
-* [Sleepytime](https://open.spotify.com/playlist/5FigKrjjfhB4ucejGy6sBH?si=b6ecde45b5904ffb): My daughter's bedtime playlist, inspired by three prayers I said before bed as a child.
-
 🤓 **Unicode.** I'm the proud [sponsor](https://aac.unicode.org/sponsors) of Unicode characters μ and σ.
 
 ___
