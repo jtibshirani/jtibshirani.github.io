@@ -2,7 +2,7 @@
 
 <img src="/assets/julie.jpg" alt="Julie with California poppies" width="450" style="float: right; margin-bottom: 5px; margin-left: 10px;"/>
 
-Hello, world! I'm a software engineer focused on search and developer infrastructure. I currently work on the developer platform team at [Databricks](https://www.databricks.com/) and serve as an [Apache Lucene](https://lucene.apache.org/) committer and PMC member.
+Hello, world! I'm a software engineer with an interest in search and developer infrastructure. I work on the developer platform team at [Databricks](https://www.databricks.com/) and serve as an [Apache Lucene](https://lucene.apache.org/) committer and PMC member.
 
 I love building software that's empowering and joyful to use. I'm an open
 source enthusiast, and shared my experience joining the open source search
