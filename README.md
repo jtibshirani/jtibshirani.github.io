@@ -36,17 +36,7 @@ dedication to open source principles.
 * *[Generalized Random Forests](https://arxiv.org/abs/1610.01271)* (Annals of Statistics, 2019)
 * *[Local Linear Forests](https://arxiv.org/abs/1807.11408)* (Journal of Computational and Graphical Statistics, 2020)
 
-#### 💾  Information extraction
-During my Master's degree I researched relation extraction and knowledge base
-population as part of the Stanford Natural Language Processing group. Our work
-focused on non-traditional supervision techniques, including multi-label
-learning, partial supervision, as well as methods to address labelling errors in
-training data.
-* *[Multi-instance Multi-label Learning for Relation Extraction](https://www.aclweb.org/anthology/D12-1042/)* (EMNLP, 2012)
-* *[Combining Distant and Partial Supervision for Relation Extraction](https://www.aclweb.org/anthology/D14-1164/)* (EMNLP, 2014)
-* *[Robust Logistic Regression using Shift Parameters](https://www.aclweb.org/anthology/P14-2021/)* (ACL, 2014)
-
-## <span style="color:purple">Personal</span>
+## <span style="color:purple">Other</span>
 
 ⛰️ **Backcountry cooking recipes**. I'm an avid backpacker and enjoy finding [creative ways to eat well outdoors](/backcountry).
 
