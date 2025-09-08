@@ -44,8 +44,7 @@ dedication to open source principles.
 
 ___
 
-<a href="mailto: julietibs@apache.org"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email icon" width=30></a>
 <a href="http://www.github.com/jtibshirani"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="Github icon" width=30></a>
 <a href="https://www.linkedin.com/in/julie-tibshirani/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn icon" width=30></a>
 <a href="https://scholar.google.com/citations?user=H-A5KBYAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google_scholar.svg" alt="Google scholar icon" width=30></a>
-<a href="http://www.twitter.com/julietibs"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter icon" width=30></a>
+
