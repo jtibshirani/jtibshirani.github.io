@@ -2,7 +2,7 @@
 
 <img src="/assets/julie.jpg" alt="Julie with California poppies" width="450" style="float: right; margin-bottom: 5px; margin-left: 10px;"/>
 
-Hello, world! I'm a software engineer with an interest in search and developer infrastructure. I work on the developer platform team at [Databricks](https://www.databricks.com/) and serve as an [Apache Lucene](https://lucene.apache.org/) committer and PMC member.
+Hello, world! I'm a software engineer with a passion for search and developer infrastructure. I work on the developer platform team at [Databricks](https://www.databricks.com/) and serve as an [Apache Lucene](https://lucene.apache.org/) committer and PMC member.
 
 I love building software that's empowering and joyful to use. I'm an open
 source enthusiast, and shared my experience joining the open source search
@@ -14,15 +14,15 @@ Before Databricks, I worked at Elastic on the [Elasticsearch](https://en.wikiped
 ## <span style="color:purple">Selected work</span>
 
 #### 🔎  Code search
-Sourcegraph is a widely used code intelligence platform that helps enterprises work efficiently with large, complex codebases. I helped introduce Sourcegraph's semantic code search capability, allowing users (and LLMs!) to ask questions about large codebases in natural language.
+Sourcegraph is a widely used code intelligence platform that helps enterprises work efficiently with large, complex codebases. I introduced Sourcegraph's semantic code search capability, allowing users (and LLMs!) to ask questions about large codebases in natural language.
 * *[Beyond working set memory: understanding the cAdvisor memory metrics](https://sourcegraph.com/blog/beyond-working-set-memory-understanding-the-cadvisor-memory-metrics)* (Sourcegraph blog, 2025)
 * *[Keeping it boring (and relevant) with BM25F](https://sourcegraph.com/blog/keeping-it-boring-and-relevant-with-bm25f)* (Sourcegraph blog, 2025)
 
 #### 🔢  Vector search
-Thanks to a new generation of machine learning models that can powerfully
+Thanks to a new generation of models that can powerfully
 represent text as vectors, there's been a surge of interest in vector-based
-semantic search. I led Elastic's effort to introduce vector search in Lucene and
-Elasticsearch, helping extend these systems to become powerful "vector databases".
+semantic search. I led the introduction of vector search into Elasticsearch,
+and helped transform Lucene into a highly capable "vector database". 
 * *[Introducing approximate nearest neighbor search in Elasticsearch](https://www.elastic.co/blog/introducing-approximate-nearest-neighbor-search-in-elasticsearch-8.0)* (Elastic blog, 2022)
 * *[Implementing academic papers: lessons learned from Elasticsearch and Lucene](https://www.elastic.co/blog/implementing-academic-papers-lessons-learned-from-elasticsearch-and-lucene)* (Elastic blog, 2021)
 
@@ -44,7 +44,8 @@ dedication to open source principles.
 
 ___
 
-<a href="http://www.github.com/jtibshirani"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="Github icon" width=30></a>
+<a href="http://www.github.com/jtibshirani"><img src="https://cdn.simpleicons.org/github" alt="Github icon" width=30></a>
 <a href="https://www.linkedin.com/in/julie-tibshirani/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn icon" width=30></a>
-<a href="https://scholar.google.com/citations?user=H-A5KBYAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google_scholar.svg" alt="Google scholar icon" width=30></a>
+<a href="https://scholar.google.com/citations?user=H-A5KBYAAAAJ&hl=en"><img src="https://cdn.simpleicons.org/googlescholar" alt="Google scholar icon" width=30></a>
+<a href="https://jtibs.substack.com/"><img src="https://cdn.simpleicons.org/substack" width=30/></a>
 

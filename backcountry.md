@@ -8,10 +8,10 @@ permalink: /backcountry/
 
 ### Za'atar Couscous
 
-After a long day of backpacking, I love eating a warm, salty, fatty meal. This 
-dish provides all of the above! Couscous is a great choice for backpacking, as
-it cooks with only boiled water. In this recipe it's topped with olive oil and
-za'atar, a common spice mix in Lebanese cuisine.
+After a long day of backpacking, I love a flavorful meal full of salt, fat, and
+of course, carbs. This dish provides it all. Couscous is a practical choice for
+backpacking, as it cooks with only boiled water. Here, it's topped with olive oil
+and za'atar, a common spice mix in Lebanese cuisine.
 
 Ingredients:
 * Dried couscous
@@ -23,8 +23,8 @@ Ingredients:
 Before your trip, combine the couscous ingredients into an airtight bag:
 measure the dried couscous and salt according to the package instructions,
 and throw in some pine nuts. In a small plastic container, combine the
-za'atar and olive oil in a 1:2 ratio. (Note: this container must be
-leak-proof! For a simple option, I recommend a Nalgene 1 or 2 oz bottle).
+za'atar and olive oil in a 1:2 ratio. Note: this container *must* be
+leak-proof, like a tiny 2 oz Nalgene bottle.
 
 To prepare the meal on your trip, pour the couscous ingredients into a pot.
 Boil water using any means that's convenient (Jetboil, stove, etc.) and pour
@@ -33,13 +33,14 @@ plus a thin layer on top. Stir the couscous to ensure the salt and nuts are
 evenly distributed, then let it sit until all water has been absorbed. To
 serve, fluff up the couscous, split into bowls, and drizzle the sauce on top.
 
-For a sweeter variation, you can chop some dates or dried figs and add it to the couscous alongside the pine nuts. Medjool dates also pair nicely as a dessert course.
+For a sweeter variation, you can chop up dried figs, and add them to the
+couscous alongside the pine nuts. Medjool dates pair nicely as a dessert course.
 
 ### Ryan's Olive Spread
 
 <img src="/assets/olive_spread.jpg" alt="Olive spread with redwoods in background" width="330" style="float: right; margin-bottom: 5px; margin-left: 10px;"/>
 
-This salty, satisfying spread is great for a quick lunch on the trail. Since it only contains olives and nuts, it keeps well without refrigeration and works well on short backpacking trips. It is loosely inspired by tapenade, but omits some pungent ingredients -- your hiking buddies will appreciate that you don't smell like garlic!
+This creamy spread is great for a quick lunch on the trail. Since it only contains olives and nuts, it keeps without refrigeration and works well on short backpacking trips. It is loosely inspired by tapenade, but omits some pungent ingredients -- your hiking buddies will appreciate that you don't smell like garlic!
 
 Ingredients:
 * 8 oz pistachios (roasted, shelled, unsalted)
