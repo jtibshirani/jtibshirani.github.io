@@ -6,6 +6,13 @@ permalink: /music/
 
 ### Sofia's Lullabies
 
+🍃 A Fallen Leaf [[sheet music](/assets/fallen_leaf.pdf)]
+
 🌜Hello Mr. Moon [[sheet music](/assets/hello_mr_moon.pdf)]
 
-🍃 A Fallen Leaf [[sheet music](/assets/fallen_leaf.pdf)]
+### Sacred Music
+
+📿 Videmus nunc [[sheet music](/assets/videmus_nunc.pdf)]
+
+
+

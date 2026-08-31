@@ -4,7 +4,7 @@
 
 Hello, world! I'm a software engineer with a passion for search and developer infrastructure. I work on the developer platform team at [Databricks](https://www.databricks.com/) and serve as an [Apache Lucene](https://lucene.apache.org/) committer and PMC member.
 
-I love building software that's empowering and joyful to use. I'm an open
+I strive to build software that "just works" -- powerful and simple at once. I'm an open
 source enthusiast, and shared my experience joining the open source search
 community in
 *[Finding a home (and career) in the open source community](https://jtibs.substack.com/p/finding-a-home-and-career-in-the)*.
@@ -14,9 +14,9 @@ Before Databricks, I worked at Elastic on the [Elasticsearch](https://en.wikiped
 ## <span style="color:purple">Selected work</span>
 
 #### 🔎  Code search
-Sourcegraph is a widely used code intelligence platform that helps enterprises work efficiently with large, complex codebases. I introduced Sourcegraph's semantic code search capability, allowing users (and LLMs!) to ask questions about large codebases in natural language.
-* *[Beyond working set memory: understanding the cAdvisor memory metrics](https://sourcegraph.com/blog/beyond-working-set-memory-understanding-the-cadvisor-memory-metrics)* (Sourcegraph blog, 2025)
+Sourcegraph is a widely used code intelligence platform that helps enterprises work with large, complex codebases. I introduced semantic search to the Sourcegraph backend to power the popular [Deep Search](https://sourcegraph.com/deep-search) product.
 * *[Keeping it boring (and relevant) with BM25F](https://sourcegraph.com/blog/keeping-it-boring-and-relevant-with-bm25f)* (Sourcegraph blog, 2025)
+* *[Beyond working set memory: understanding the cAdvisor memory metrics](https://sourcegraph.com/blog/beyond-working-set-memory-understanding-the-cadvisor-memory-metrics)* (Sourcegraph blog, 2025)
 
 #### 🔢  Vector search
 Thanks to a new generation of models that can powerfully
@@ -38,7 +38,9 @@ dedication to open source principles.
 
 ## <span style="color:purple">Other</span>
 
-⛰️ **Backcountry cooking recipes**. I'm an avid backpacker and enjoy finding [creative ways to eat well outdoors](/backcountry).
+⛰️ **Backcountry cooking recipes.** I'm an avid backpacker and enjoy finding [creative ways to eat well outdoors](/backcountry).
+
+🎵 **Compositions.** I love to [write songs](/music) as gifts for family and friends.
 
 🤓 **Unicode.** I'm the proud [sponsor](https://aac.unicode.org/sponsors) of Unicode characters μ and σ.
 
