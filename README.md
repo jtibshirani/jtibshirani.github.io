@@ -36,6 +36,7 @@ dedication to open source principles.
 
 ## <span style="color:purple">Selected Writing</span>
 
+* *[Who lost my lap infant? Reverse engineering a decades-long airline bug](https://substack.com/home/post/p-218375685)* (Julie's Substack, 2026)
 * *[If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)* (Julie's Substack, 2025)
 * *[Finding a home (and career) in the open source community](https://jtibs.substack.com/p/finding-a-home-and-career-in-the)* (Elastic culture blog, 2021)
 
